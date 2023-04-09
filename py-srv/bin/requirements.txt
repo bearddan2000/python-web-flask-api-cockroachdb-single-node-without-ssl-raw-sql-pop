@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy # sets up sqlalchemy for flask
+
+sqlalchemy # used by Raw and Chained cls
+
+# undocumented dep
+psycopg2-binary
+sqlalchemy-cockroachdb
